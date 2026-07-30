@@ -1,0 +1,5 @@
+horizonte,dias,modelo,n_test,r2,mae_pct,acierto_direccional_%
+1 semana,5,Random Forest,44453,0.0004,2.89,53.7
+1 mes,21,Ridge,44213,-0.0005,6.1,55.2
+3 meses,63,Ridge,43733,0.0225,10.72,59.1
+6 meses,126,Ridge,42953,0.0321,14.55,63.6

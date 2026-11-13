@@ -3,6 +3,8 @@
 Proyecto Final — Diplomado en Data Science & Machine Learning (4Geeks Academy)
 **Autor:** Raúl Márquez
 
+**App en vivo:** https://prediccion-mercado-ml-mxvfgebfmvfykkyu9t4uar.streamlit.app/
+
 Clasificación binaria de la dirección diaria del precio (sube/baja mañana) usando
 indicadores técnicos, sobre un universo de **60 tickers** (2011–2026) en 11 sectores
 GICS, clasificados además por estilo de inversión (**Growth / Value / Index**),
